@@ -1,0 +1,30 @@
+{
+  "name": "hope",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./build/server/index.js"
+  },
+  "author": "me",
+  "license": "ISC",
+  "keywords": [
+    "webpack",
+    "webpack-dev-server",
+    "react",
+    "react-router",
+    "react-dom",
+    ""
+  ],
+  "description": "walk to the future",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2",
+    "multer": "^1.3.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-upload-file": "^2.0.0-beta.6",
+    "css-modules-require-hook": "^4.2.3"
+  }
+}
